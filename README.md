@@ -24,5 +24,7 @@ sp_upd_ticker.sql :-
 
 
 The database and store procedures are used in both of the web-services.
+
 SOAP - Tornado
+
 RESTful - Flask
