@@ -21,3 +21,8 @@ sp_get_ticker.sql :-
 sp_upd_ticker.sql :- 
   The store procedure is used to create and update tickers. Only users with accessLevel 3 and above can create and update tickers.
   By defaults tickers are created with accessLevel 1.
+
+
+The database and store procedures are used in both of the web-services.
+SOAP - Tornado
+RESTful - Flask
